@@ -1,10 +1,10 @@
 ---
 author: Patrick Tien
 pubDatetime: 2024-09-24T15:22:00Z
-modDatetime: 2023-12-21T09:12:47.400Z
+modDatetime: 2024-09-24T15:22:00Z
 title: 近况
 slug: my-recent-1
-featured: true
+featured: false
 draft: false
 tags:
   - 记忆
