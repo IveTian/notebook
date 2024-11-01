@@ -61,6 +61,7 @@ export default async (post: CollectionEntry<"blog">) => {
               fontWeight: "bold",
               maxHeight: "84%",
               overflow: "hidden",
+              fontFamily: "Noto Sans SC"
             }}
           >
             {post.data.title}
