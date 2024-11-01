@@ -12,6 +12,7 @@ export default async () => {
         display: "flex",
         alignItems: "center",
         justifyContent: "center",
+        fontFamily: "Noto Sans SC",  // 添加这一行
       }}
     >
       <div
