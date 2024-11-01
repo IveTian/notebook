@@ -7,7 +7,7 @@ slug: talk-about-animation-in-apps
 featured: false
 draft: false
 tags:
-  - 记忆
+  - 随记
 description: 动画的妙处在于，它可以给人一种“这应用会呼吸”的感觉。比如，图标的动画让界面更生动，按钮的动画让交互更自然，而首页的过渡动画则让人觉得“哇，整个体验真流畅！” 这些设计细节看似微小，却在不经意间影响着用户的情绪和使用体验。
 ---
 ## 0.引言
