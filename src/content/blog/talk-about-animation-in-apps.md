@@ -1,7 +1,6 @@
 ---
 author: Patrick Tien
 pubDatetime: 2024-11-01T21:42:00Z
-modDatetime: 2024-11-01T21:42:00Z
 title: 聊聊App中的动态设计
 slug: talk-about-animation-in-apps
 featured: false
